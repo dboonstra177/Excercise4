@@ -1,0 +1,14 @@
+table{
+    border: 0px solid;
+    margin-bottom: 100px;
+}
+thead {
+    background-color: #2f66bf;
+    color: white;
+}
+tr:hover {
+    background-color: gray;
+}
+tr:focus {
+    background-color: gray;
+}
